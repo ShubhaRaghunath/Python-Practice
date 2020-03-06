@@ -1,7 +1,11 @@
 # Python-Practice
 First Repository.
 
-What is it ?
-..New
+- Point 1
+- Point 2
 
-print("Hello new")
+
+---
+```
+print("hello world")
+```
